@@ -6,7 +6,7 @@ ul {
 li {
     border-bottom: 1px solid lightgray;
     text-align: left;
-    padding-left: 10px;
+    padding-left: 15px;
 }
 
 .card-title {
@@ -14,11 +14,11 @@ li {
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 95px;
+    height: 95px;
 }
 .fiveDayColor {
-    padding: 20px;
+    padding: 25px;
     background-color: #379bcd;
     color: white;
     float: left;
