@@ -13,7 +13,7 @@ https://mer2022.github.io/Weather-Dashboard/
 
 ## Screen shot of the deployed URL
 
-![Weather Dashboard](/assets/images/weather.PNG)
+![Weather Dashboard](C:\Users\Mer\Desktop\UTA.Bootcamp\Challenges\Weather-Dashboard\Weather.dashboard.PNG)
 
 
 
